@@ -1,14 +1,14 @@
-# TO-DO LIST-REACT
+# PERSONAL-HOMEPAGE
 
 ## Description:
-   This is a simple task list for adding new tasks, downloading sample tasks and filtering tasks.
+   
    
    This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Demo: 
-   https://paupio.github.io/to-do-list-react-2/
+   https://paupio.github.io/personal-homepage/
 
-   ![image](https://github.com/Paupio/to-do-list-react-2/blob/main/images/lista.png)
+   
 
 ## Technologies:
 - BEM
